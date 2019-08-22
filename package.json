@@ -1,13 +1,13 @@
 {
   "private": false,
-  "name": "nice-handsome-button",
+  "name": "vue-materialize-preloader-overlay",
   "version": "0.0.2",
-  "description": "A nice handsome button you will love",
-  "author": "Nada Rifki",
+  "description": "A nice overlay built using materializecss preloaders",
+  "author": "Krushn Dayshmookh <krushndayshmookh@gmail.com>",
   "license": "MIT",
   "main": "./dist/index.cjs.js",
   "scripts": {
-    "dev": "vue serve NiceHandsomeButton.vue",
+    "dev": "vue serve PreloaderOverlay.vue",
     "build": "bili --name index --plugin vue --vue.css false"
   },
   "files": [
